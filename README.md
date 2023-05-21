@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/kXarlI6SoqcAAAAC/fight-club-tyler-durden.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/1b/c1/0d/1bc10d56846e0cb6734dbdfc048b2278.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">Flutter && IOS Developer</h3>
 <p align="left"> <a href="https://twitter.com/semihekmen1037" target="blank"><img src="https://img.shields.io/twitter/follow/semihekmen1037?logo=twitter&style=for-the-badge" alt="semihekmen1037" /></a> </p>
