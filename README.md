@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">Flutter && IOS Developer</h3>
-<img align="center" alt="Coding" width="800" src="https://media.tenor.com/kXarlI6SoqcAAAAC/fight-club-tyler-durden.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-ekmen" alt="muhammed-ekmen" /></a> </p>
-
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/kXarlI6SoqcAAAAC/fight-club-tyler-durden.gif">
 <p align="left"> <a href="https://twitter.com/semihekmen1037" target="blank"><img src="https://img.shields.io/twitter/follow/semihekmen1037?logo=twitter&style=for-the-badge" alt="semihekmen1037" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter && IOS**
