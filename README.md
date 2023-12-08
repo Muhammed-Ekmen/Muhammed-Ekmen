@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.tenor.com/kXarlI6SoqcAAAAC/fight-club-tyler-durden.gif"/> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/af/66/6e/af666eba1e8c6382da2283efb9f6f42d.gif"/> </p>
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">Flutter && IOS Developer</h3>
 <p align="left"> <a href="https://twitter.com/semihekmen1037" target="blank"><img src="https://img.shields.io/twitter/follow/semihekmen1037?logo=twitter&style=for-the-badge" alt="semihekmen1037" /></a> </p>
